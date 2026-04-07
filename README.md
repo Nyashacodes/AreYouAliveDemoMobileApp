@@ -9,3 +9,7 @@ Learning mobile background tasks, schedulers, and reliability.
 ## Non-goals
 No monetization, no medical claims.
 This is purely a learning project and should not be used for real safety situations.
+
+## install
+npm install @react-native-async-storage/async-storage
+it let us store data locally on the device. even if the app is closed or the device is restarted, the data will persist.
